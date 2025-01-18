@@ -31,3 +31,7 @@ Feat - inclusão de funcionalidade
 
 Docs - atualização da Documentação
 - git commit -m 'docs: atualizando o changelog.md'
+
+### Utilização do Git no VSCODE
+
+- Para visualizar o historico do git, instalar a extensão git history no apps e depois precionar F1 para acessar e digitar git history
