@@ -6,7 +6,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.0.1] - 2025-01-18
 
 ### Inicio do Changelog
-### Added
+
+### Adicionado:
 - Criado arquivo changelog
 
 - Fases do projeto: 
@@ -16,3 +17,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
     - Removed/Removido para recursos removidos nesta versão.
     - Fixed/Corrigido para qualquer correção de bug.
     - Security/Segurança em caso de vulnerabilidades.
+
+### Adicionado: Padrões de nomenclatura para o commit:
+
+Chore - pequena tarefa
+- git commit -m 'chore: removendo arquivo.tx'
+
+Fix - correções
+- git commit -m 'fix: correção na linha 10 do arquivo.txt'
+
+Feat - inclusão de funcionalidade
+- git commit -m 'feat: inclusão de função para calcular'
+
+Docs - atualização da Documentação
+- git commit -m 'docs: atualizando o changelog.md'
